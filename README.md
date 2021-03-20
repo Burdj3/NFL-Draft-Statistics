@@ -12,4 +12,4 @@ There were more features I had intended to add to this project, but my supervisi
 The features I intended included: 
 - A GUI for selecting data from file folders instead of hard coding the path to the excel files
 - A larger data pool
-- A way to plug in a players measurements and immediately compare them to the existing data to see how they compare
+- A way to plug in a players measurements and immediately compare them to the existing data
