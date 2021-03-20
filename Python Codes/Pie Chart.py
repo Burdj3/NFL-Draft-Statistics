@@ -12,19 +12,21 @@ import pandas as pd
 file = pd.read_excel(r'C:\Users\Jack Owen\Documents\College\Research Project\Recievers.xlsx')
 file2 = pd.read_excel(r'C:\Users\Jack Owen\Documents\College\Research Project\Running Backs.xlsx')
 
+# "two" through "eleven" are no longer needed since we decided one pro bowl or more was success
 zero = 0
 one = 0
-two = 0
-three = 0
-four = 0
-five = 0
-six = 0
-seven = 0
-eight = 0
-nine = 0
-ten = 0
-eleven = 0
+# two = 0
+# three = 0
+# four = 0
+# five = 0
+# six = 0
+# seven = 0
+# eight = 0
+# nine = 0
+# ten = 0
+# eleven = 0
 
+# instead of counting how many, only counting whether they made at least one 
 for i in file.Pbowls:
     if i != 0:
         one += 1
