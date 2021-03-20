@@ -13,3 +13,9 @@ The features I intended included:
 - A GUI for selecting data from file folders instead of hard coding the path to the excel files
 - A larger data pool
 - A way to plug in a players measurements and immediately compare them to the existing data
+
+# In order to run the code locally:
+- download all files in Python Code folder
+- Open .Py file
+- Change path for excel file to the path you saved the excel files at on your computer
+- Run python code
