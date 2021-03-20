@@ -16,6 +16,6 @@ The features I intended included:
 
 # In order to run the code locally:
 - download all files in Python Code folder
-- Open .Py file
+- Open each .Py file
 - Change path for excel file to the path you saved the excel files at on your computer
 - Run python code
